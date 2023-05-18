@@ -1,9 +1,9 @@
 ### Hey, I'm Richard! 👋 <br/>
 
 #### 🧠 About Me
-- 🏫 CS at the University of Maryland, College Park
+- 🏫 Computer Science at the University of Maryland, College Park
 - 👀 Interested in web development, machine learning, robotics, and deep learning
-- 🌱 Currently learning Object-Oriented Programming, JavaScript, and React
+- 🌱 Currently learning Computer Systems, Discrete Structures, and Linear Algerba
 - 🤖 Experienced with Java and <a href="https://github.com/RichardMukam/FRC_2022-8197" target="_blank">FIRST Robotics</a>
 - 📫 Connect with me!
 
