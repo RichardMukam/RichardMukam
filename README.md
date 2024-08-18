@@ -1,10 +1,10 @@
 ### Hey, I'm Richard! 👋 <br/>
 
 #### 🧠 About Me
-- 🏫 Computer Science at the University of Maryland, College Park
-- 👀 Interested in web development, machine learning, robotics, and deep learning
-- 🌱 Currently learning Computer Systems, Discrete Structures, and Linear Algerba
-- 🤖 Experienced with Java and <a href="https://github.com/RichardMukam/FRC_2022-8197" target="_blank">FIRST Robotics</a>
+- 🏫 Computer Science + Business at the University of Maryland, College Park
+- 👀 Interested in full-stack development and data science
+- 🌱 Currently learning Advanced Data Structures, Data Science, and Algorithms
+- 🤖 Experienced with TypeScript, React, and Java and <a href="https://github.com/RichardMukam/FRC_2022-8197" target="_blank">FIRST Robotics</a>
 - 📫 Connect with me!
 
 <a href="mailto: rmukam@terpmail.umd.edu"><img width="9.5%" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
